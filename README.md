@@ -148,18 +148,5 @@ cd JavaFX-Question-Automation-Platform
 - [ScreenCast 1](https://drive.google.com/file/d/1pO3w092p7j_WEwiRdGEcwc5zc2giEiSs/view?usp=sharing): Overview of the application code, Junit code and Junit tests.
 - [ScreenCast 2](https://drive.google.com/file/d/1WthSxB49bPkbKSj7sZtBZlvlEkh92FuE/view?usp=sharing): Demonstrates UI walkthrough and shows how user stories work in the interface.
 
----
-
-## 🧑‍💻 Author
-
-**Muzzamil Jolaade**  
-Aspiring software engineer passionate about computer vision, automation, and system-level development.  
-[LinkedIn](https://www.linkedin.com/in/muzzamil-jolaade/)• [Email](mailto:mtjolaade@gmail.com)
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute it with proper credit.
 
 
