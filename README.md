@@ -4,40 +4,40 @@ This is a JavaFX desktop application built to manage users, questions, and answe
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔐 **User Authentication**
+- **User Authentication**
   - Login and account setup screens
   - Password strength validation
   - Username recognition
 
-- 🧑‍🤝‍🧑 **Role-Based Interfaces**
+- **Role-Based Interfaces**
   - Admin, Staff, Instructor, Reviewer, and Student roles
   - Each role has a distinct home page with role-specific functionalities
 
-- 🧠 **Question & Answer Management**
+- **Question & Answer Management**
   - Create, edit, update, and delete questions and answers
   - Evaluate and review responses
 
-- 📬 **Messaging System**
+- **Messaging System**
   - Users can send and receive messages
   - Reviewer requests and communication between roles
 
-- 📊 **Admin Dashboard**
+- **Admin Dashboard**
   - View all users
   - Manage roles and account statuses
   - See contribution summaries
 
-- ✅ **Form Validators**
+- **Form Validators**
   - Email and password format checkers
   - Input field validation
 
-- 🧪 **JUnit Testing**
+- **JUnit Testing**
   - Includes test classes such as `JunitTest.java` and `TestException.java`
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 JavaFX-Question-Automation-Platform/
@@ -91,7 +91,7 @@ JavaFX-Question-Automation-Platform/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Java** (JDK 17+ recommended)
 - **JavaFX** for GUI
@@ -111,7 +111,7 @@ JavaFX-Question-Automation-Platform/
 
 ### Installation & Running
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Installation & Usage
 
